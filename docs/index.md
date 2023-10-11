@@ -2,20 +2,22 @@
 layout: default
 ---
 
-![Hero Image](Hero.gif)
+![Hero Image](images/badge_front_lit.gif)
 
-# PROJECTNAME
+# BSidesDFW 2023 Badge
 
-Welcome to the PROJECTNAME website.
+Welcome to the BSidesDFW 2023 Badge website.
 
-Information about the project.
+Home to all the information related to the BSidesDFW 2023 UNT Badge.
+This includes art and schematics and cad and fab files.  All the things.
 
--- [@alt_bier](https://twitter.com/alt_bier)  - [My Contact Info](https://gowen.net/about)
+-- [@alt_bier](https://twitter.com/alt_bier)  - [My Contact Info](https://www.gowen.net/about)
 
 ---
 
-![Prototype Image](Proto.gif)
+![Badge Front](images/badge_front_crop.jpg)
+![Badge Back](images/badge_back_crop.jpg)
 
 # Details
 
-Detailed Information about the project.
+Detailed Information about the project will be updated shortly.
