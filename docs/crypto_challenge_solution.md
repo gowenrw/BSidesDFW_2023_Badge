@@ -40,9 +40,9 @@ CLOSE THIS PAGE NOW or you will be SPOILED by the SOLUTION
 
 # Solving the Crypto Challenge
 
-This is a faily simple challenge designed to make people thing about the steps involved in working with hidden codes.
+This is a fairly simple challenge designed to make people think about the steps involved in working with hidden codes.
 
-It utilizes charachter substitution with simple cryptogrophy and includes visible hints.
+It utilizes character substitution with simple cryptography and includes visible hints.
 
 ## Cryptogram
 
@@ -61,13 +61,13 @@ CA 03 08 08 09 10 0B 1E 03 09 08 C8
 
 The use of HEX is a hint as to the use of character substitution as these can be converted to ASCII characters.
 
-But to do that conversion now will produce giberish, meaning that we must first decode it.
+But to do that conversion now will produce gibberish, meaning that we must first decode it.
 
 ## Layout
 
 The layout of the HEX is in 6 rows of 6 values followed by 2 rows of 12 values.
 
-This was done purposley to make the number 6 stand out as important as well as to bring the concept of shifting to mind as the layout shifts from 6 to 12.
+This was done purposely to make the number 6 stand out as important as well as to bring the concept of shifting to mind as the layout shifts from 6 to 12.
 
 These are hints to the cipher used and the key to decrypt it.
 
@@ -93,7 +93,7 @@ Decoded using Leftward shift of 6
 57 65 20 61 72 65 20 61 20 66 61 6D 69 6C 79 20 62 6F 75 6E 64 20 74 6F 67 65 74 68 65 72 20 62 79 20 63 72 65 61 74 69 76 69 74 79 20 61 6E 64 20 69 6E 6E 6F 76 61 74 69 6F 6E 2E
 ```
 
-Note that the decoded plaintext outputs are still be in HEX format, and only one of them will be correct.
+Note that the decoded plaintext outputs are still in HEX format, and only one of them will be correct.
 
 You will need to check both in the next step to find out.
 
@@ -103,7 +103,7 @@ The final step to solving the challenge is to check both the decoded plaintext H
 
 There are many tables out there that show the ASCII to HEX values.  So, you can convert the HEX manually to ASCII or use an [online tool like this one](https://www.dcode.fr/ascii-code).
 
-What you will find is that the rightward shifted decode produces gibberish while the leftware shifted decode produces our final solution:
+What you will find is that the rightward shifted decode produces gibberish while the leftward shifted decode produces our final solution:
 
 ```
 We are a family bound together by creativity and innovation.
