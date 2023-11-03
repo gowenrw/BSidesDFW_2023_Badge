@@ -99,3 +99,4 @@ The EDA files can all be found here: [Badge EDA](https://github.com/gowenrw/BSid
 The badge includes a cryptogram which is a simple puzzle to be solved.
 
 A walkthrough of the puzzle solution is available here: [Crypo Challenge Solution](crypto_challenge_solution.md)
+
