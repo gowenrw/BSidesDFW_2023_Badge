@@ -1,6 +1,6 @@
 # Security Automation the Good the Bad and the Ugly
 
-This page has links to the BSidesDFW 2023 presentation materials for the talk "Security Automation the Good the Bad and the Ugly" by [@alt_bier](https://twitter.com/alt_bier)
+This page has links to the [BSidesDFW](https://bsidesdfw.com/) 2023 presentation materials for the talk "Security Automation the Good the Bad and the Ugly" by [@alt_bier](https://twitter.com/alt_bier)
 
 ## Presentation Download Links
 

@@ -8,10 +8,10 @@ layout: default
 
 Welcome to the BSidesDFW 2023 Badge website.
 
-Home to all the information related to the BSidesDFW 2023 UNT Badge.
+Home to all the information related to the [BSidesDFW](https://bsidesdfw.com/) 2023 [UNT](https://www.unt.edu/index.html) Badge.
 This includes art and schematics and cad and fab files.  All the things.
 
-I have been supporting the BSidesDFW conference in many way over the past 8 years.
+I have been supporting the [BSidesDFW](https://bsidesdfw.com/) conference in many way over the past 8 years.
 
 This year my contribution was this badge, volunteering in the HHV, and giving my first ever conference talk.
 
@@ -100,3 +100,6 @@ The badge includes a cryptogram which is a simple puzzle to be solved.
 
 A walkthrough of the puzzle solution is available here: [Crypo Challenge Solution](crypto_challenge_solution.md)
 
+Spoiler Alert! The page above does not provide hints, it will show you the solution.
+
+If you want to solve it yourself, do not open that page.
